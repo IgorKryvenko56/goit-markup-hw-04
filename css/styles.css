@@ -751,8 +751,8 @@ fill: var(--cloud-color);
 .social-link:focus {
 background-color:green; 
 }
-/*.social-link:hover .icon,
+.social-link:hover .icon,
 .social-link:focus .icon {
-  fill:var(--hover-color);
-}*/
+  fill: #d9d9d9;
+}
 
