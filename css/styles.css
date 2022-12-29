@@ -749,7 +749,7 @@ fill: var(--cloud-color);
 }
 .social-link:hover,
 .social-link:focus {
-background-color:green; 
+background-color: #31D0AA; 
 }
 .social-link:hover .icon,
 .social-link:focus .icon {
